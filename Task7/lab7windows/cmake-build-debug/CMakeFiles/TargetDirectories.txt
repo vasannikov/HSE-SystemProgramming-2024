@@ -1,0 +1,4 @@
+C:/Users/vladi/CLionProjects/lab7windows/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/vladi/CLionProjects/lab7windows/cmake-build-debug/CMakeFiles/subproc.dir
+C:/Users/vladi/CLionProjects/lab7windows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vladi/CLionProjects/lab7windows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
