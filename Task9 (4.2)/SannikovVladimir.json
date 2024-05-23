@@ -1,0 +1,48 @@
+{
+    "debugInfo": {
+        "kdCopyDataBlock": 0,
+        "kdDebuggerData": 2153012448,
+        "kdpDataBlockEncoded": 0,
+        "ntosBase": -2142408704,
+        "pdbAge": 1,
+        "pdbGuid": "7E4571CB-945F-42D1-82C8-6ABEBEA8E44D",
+        "pdbName": "ntkrnlpa.pdb",
+        "regCr0": -2147418063,
+        "regCr3": 244843008,
+        "regCr4": 1785,
+        "regNtCr3": 3358720
+    },
+    "fileInfo": {
+        "fileSize": 2147418112,
+        "sha256": "baec8d2cdc1c1091d6a1e90a171091ad3dff23d424dcd6f7b98bd5bd60a35c13"
+    },
+    "machineInfo": {
+        "architectureType": "x86",
+        "date": "2024-05-22T21:02:27.890Z",
+        "machineId": "ADD1E232-5E68-4A54-9696-1BA57B1AE7D1",
+        "machineName": "MIKE",
+        "maxPhysicalMemory": 2147418112,
+        "numberProcessors": 1,
+        "timestamp": 133608853387769792,
+        "userName": "John",
+        "workgroupName": "MSHOME"
+    },
+    "osVersion": {
+        "buildNumber": 2600,
+        "majorVersion": 5,
+        "minorVersion": 1,
+        "productType": 1,
+        "servicePackMajor": 3,
+        "servicePackMinor": 0,
+        "suiteMask": 256
+    },
+    "serviceInfo": {
+        "acquisitionTime": "0:08",
+        "ntStatus": 0,
+        "serviceName": "DumpIt",
+        "serviceVersion": "3.0.20171228.1",
+        "totalAccessiblePages": 524173,
+        "totalInaccessiblePages": 0,
+        "totalPhysicalPages": 524173
+    }
+}
